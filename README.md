@@ -1,6 +1,8 @@
 # pi_setup
 Setup a new Raspberry Pi with latest Ruby, Vim, screen, etc
 
+Need to move all this to ansible playbook (https://serversforhackers.com/an-ansible-tutorial)
+
 ```
 apt install tmux
 apt-get install zsh
