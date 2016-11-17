@@ -14,6 +14,12 @@ apt install lua5.2 luajit
 apt-get install python-dev
 ```
 
+### install node
+
+```
+sudo apt-get install nodejs npm node-semver
+```
+
 ### install rvm
 
 see https://rvm.io/
